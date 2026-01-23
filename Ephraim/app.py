@@ -55,7 +55,7 @@ total_Budget = 15000
 sub_total = 0
                                                     
 for item, value in enumerate(store_items, 1):
-    print(f"{item}: {value[0]} -- GHC{value[1]}")
+    print(f"{item}: {value[0]} => GHC{value[1]}")
     sub_total += value[1]
 # print(f"GHC{sub_total}")
 print()
