@@ -8,7 +8,7 @@
 - [Rock Paper Scissors](./python/RPS/rock_paper_scissors.py) - Classic game implementation
 - [Password Manager](./python/Password_Manager/password_manager.py) - Simple Password Management System (V.1)
 - [Honeycomb Bakery](./python/Honeycomb_Bakery/honeycomb.py) - Real world solution to problem for a bakery
-- [Rocket Launcher](.python/Rocket_launcher/launcher.py) - Rocket Launcher goes BOOM!
+- [Rocket Launcher](./python/Rocket_launcher/launcher.py) - Rocket Launcher goes BOOM!
 ## Web Development Projects
 
 - [Trading Website Page](./web_dev/trading_website_page/) - HTML/CSS mock site
