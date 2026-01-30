@@ -6,9 +6,10 @@ Learning web development and Python. Building projects to master the fundamental
 
 ## Python Projects
 
-- [Coffee Shop Order System](./python/coffee_shop.py/) - Command-line ordering system
-- [Pomodoro Timer](./python/pomodoro_timer.py/) - Countdown timer without GUI
-- [Timer] (.python/timer.py/) - Command-line timer. Can set time limit
+- [Coffee Shop Order System](./python/Coffe_Shop/coffee_shop.py/) - Command-line ordering system
+- [Pomodoro Timer](./python/Pomodoro_Timer/pomodoro_timer.py/) - Countdown timer without GUI
+- [Timer](.python/Timer/timer.py/) - Command-line timer. Can set time limit
+- [Dice](./python/Dice_Roller/dice.py/) - Command-line pair of dice roller 
 - [Number Guessing Game](./python/number_guesser.py/) - Interactive guessing game(Work In Progress)
 
 ## Web Development Projects
