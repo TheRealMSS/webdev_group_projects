@@ -6,8 +6,9 @@
 - [Dice Roller](./python/Dice_Roller/dice.py) - Command-line pair of dice roller 
 - [Number Guessing Game](./python/number_guesser.py) - Interactive guessing game (Work In Progress)
 - [Rock Paper Scissors](./python/RPS/rock_paper_scissors.py) - Classic game implementation
-- [Password Manager](./python/Password\ Manager/password_manager.py) - Simple Password Management System
-- [Honeycomb Bakery](./python/Honeycomb\ Bakery/honeycomb.py) - Real world solution to problem for a bakery
+- [Password Manager](./python/Password_Manager/password_manager.py) - Simple Password Management System
+- [Honeycomb Bakery](./python/Honeycomb_Bakery/honeycomb.py) - Real world solution to problem for a bakery
+
 ## Web Development Projects
 
 - [Trading Website Page](./web_dev/trading_website_page/) - HTML/CSS mock site
