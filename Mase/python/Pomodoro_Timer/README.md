@@ -1,0 +1,1 @@
+I made this pomodoro timer because I realised I was spending a lot of time distracted with other things and I wanted a timer directly on my mac to use and keep me focused. Found out about the pomodoro study technique and went down the rabbit hole of making one myself. Honestly it was suprising how simple it turned out. I expected it to be a lot more complex.
